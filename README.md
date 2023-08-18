@@ -1,4 +1,4 @@
-# djdigital
+# FantasyApp
 
 A new Flutter project.
 
